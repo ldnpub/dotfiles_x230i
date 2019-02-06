@@ -13,6 +13,11 @@ if [ -d "$HOME/.bin" ] ;
 	then PATH="$HOME/.bin:$PATH"
 fi
 
+##PERSOS
+alias 'save_app_list'='pacman -Qqe > /home/rodolphe/Documents/git/My_Git/dotfiles_x230i/pkglist.txt'
+#SSH
+alias "ssh_seedbox"="ssh -v -p 44322 ldnpub@seedbox.bouchier.fr"
+
 #sudo
 alias fuck='sudo $(fc -ln -1)'
 

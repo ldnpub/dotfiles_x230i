@@ -56,7 +56,6 @@ bison
 blackarch-keyring
 bleah
 boopsuite
-broadcom-wl
 btrfs-progs
 bully
 bzip2
@@ -72,6 +71,7 @@ cool-retro-term
 coreutils
 crda
 create_ap
+cronie
 crozono
 cryptsetup
 cups
@@ -124,6 +124,7 @@ fsarchiver
 fuzzap
 g72x++
 galculator
+gamehub-git
 gawk
 gcc
 gcc-libs
@@ -379,6 +380,7 @@ sniff-probe-req
 spectools
 speedpwn
 squashfs-tools
+steam
 stegdetect
 sublime-text-dev
 sudo
@@ -435,6 +437,7 @@ vim
 virshpatcher
 virt-manager
 virtualbox
+virtualbox-guest-modules-arch
 vivaldi
 vivaldi-codecs-ffmpeg-extra-bin
 vlc
